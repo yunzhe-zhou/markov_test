@@ -11,6 +11,7 @@ The Markov property is widely imposed in time series analysis. Correspondingly, 
 
 **Figures**:  
  <img align="center" src="fig1.png" alt="drawing" width="500">
+ 
  <img align="center" src="fig2.png" alt="drawing" width="500">
 
 
