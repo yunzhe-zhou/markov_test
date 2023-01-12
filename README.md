@@ -12,7 +12,7 @@ The Markov property is widely imposed in time series analysis. Correspondingly, 
 **Figures**:  
  <img align="center" src="fig_sim.png" alt="drawing" width="600">
  
- <img align="center" src="fig_real.png" alt="drawing" width="700">
+ <img align="center" src="fig_real.png" alt="drawing" width="600">
 
 
 ## Requirement
