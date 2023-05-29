@@ -1,6 +1,6 @@
 # Testing for the Markov Property in Time Series via Deep Conditional Generative Learning
 
-This repository contains the implementation for the paper "Testing for the Markov Property in Time Series via Deep Conditional Generative Learning
+This repository contains the implementation for the JRSSB paper "Testing for the Markov Property in Time Series via Deep Conditional Generative Learning
 " in Python. 
 
 ## Summary of the paper
