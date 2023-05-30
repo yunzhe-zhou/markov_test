@@ -35,8 +35,8 @@ The Markov property is widely imposed in time series analysis. Correspondingly, 
   - `_utility.py` and `_utility_RL.py` contains the basic functions used in simulations and real data analysis.
 - `data/`: This folder where the output results and the dataset should be put.
   - `7cityMonth.dat` is the Temperature data. 
-  - `data3` folder contains the PM2.5 data. 
-  - The ohio dataset is publicly available at [here](http://smarthealth.cs.ohio.edu/OhioT1DM-dataset.html).
+  - The PM2.5 data is publicly available at [here](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data). 
+  - The OhioT1DM dataset is publicly available at [here](http://smarthealth.cs.ohio.edu/OhioT1DM-dataset.html).
 - `result/`: This folder where the output results should be put.
   - `result.ipynb` is the jupyter notebook to output the results. 
 - `command.ls` contains all the python commands to replicate the results in the paper. It will run all the `xxx_run_cv.py` files in the main folder. You can also customize the config of hyperparameters by yourself.
