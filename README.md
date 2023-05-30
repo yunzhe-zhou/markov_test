@@ -36,7 +36,6 @@ The Markov property is widely imposed in time series analysis. Correspondingly, 
 - `data/`: This folder where the output results and the dataset should be put.
   - `7cityMonth.dat` is the Temperature data. 
   - `data3` folder contains the PM2.5 data. 
-  - `Data_Ohio.csv` is the Diabetes data. 
 - `result/`: This folder where the output results should be put.
   - `result.ipynb` is the jupyter notebook to output the results. 
 - `command.ls` contains all the python commands to replicate the results in the paper. It will run all the `xxx_run_cv.py` files in the main folder. You can also customize the config of hyperparameters by yourself.
