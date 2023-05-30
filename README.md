@@ -27,12 +27,11 @@ The Markov property is widely imposed in time series analysis. Correspondingly, 
 
 
 ## File Overview
-- `code/`: This folder contains all python codes used in numerical experiments and real data analysis.
+- `markov_test/`: This module contains all python functions used in numerical experiments and real data analysis.
   - `MDN_VAR_CV.py` contains the utility functions to implement MDN based test for VAR model.
   - `MDN_SHRED_CV.py` contains the utility functions to implement MDN based test for Threshold model.
   - `MDN_MARCH_CV.py` contains the utility functions to implement MDN based test for MARCH model.
   - `REAL.py` contains the utility functions for the application of real dataset.
-  - `command.ls` contains all the python commands to replicate the results in the paper. You can also customize the config of hyperparameters by yourself.
   - `_utility.py` and `_utility_RL.py` contains the basic functions used in simulations and real data analysis.
 - `data/`: This folder where the output results and the dataset should be put.
   - `7cityMonth.dat` is the Temperature data. 
@@ -40,3 +39,4 @@ The Markov property is widely imposed in time series analysis. Correspondingly, 
   - `Data_Ohio.csv` is the Diabetes data. 
 - `result/`: This folder where the output results should be put.
   - `result.ipynb` is the jupyter notebook to output the results. 
+- `command.ls` contains all the python commands to replicate the results in the paper. You can also customize the config of hyperparameters by yourself.
